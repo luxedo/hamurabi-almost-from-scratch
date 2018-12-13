@@ -6,12 +6,12 @@ The game is set in Babylon, where the player is the ancient king [Hamurabi](http
 
 The game is based in html5/canvas, CSS and ES6 javascript.
 
-#### Check it out [here](https://armlessjohn404.github.io/hamurabi-almost-from-scratch/)
+#### Check it out [here](https://luxedo.github.io/hamurabi-almost-from-scratch/)
 
 ## Goals
 * ~~Add `LICENSE.md` and `README.md`~~
 * ~~Host somewhere~~
-* ~~Copy [PONG](https://armlessjohn404.github.io/pong-almost-from-scratch/) project base~~
+* ~~Copy [PONG](https://luxedo.github.io/pong-almost-from-scratch/) project base~~
 * ~~Create drawing/writting functions~~
 * ~~Research and add all the text of the game~~
 * ~~Create the user input mechanics~~
@@ -27,7 +27,7 @@ The game is based in html5/canvas, CSS and ES6 javascript.
 Well, since I already made a reproduction of the game PONG, I'll be using it as a base for this project. Then I created a repository at GitHub to host the game with gh-pages.
 
 ## 01:25 - Create drawing/writting functions
-I'm not really in the mood of remakinkg the old terminal fonts by hands drawing squares on screen. I already did that in [PONG](https://armlessjohn404.github.io/pong-almost-from-scratch/) and also a vector font in [spacewar](https://armlessjohn404.github.io/spacewar-almost-from-scratch/). Instead I've found a copy of a font for the [VT320](https://en.wikipedia.org/wiki/VT320) terminal in google fonts.
+I'm not really in the mood of remakinkg the old terminal fonts by hands drawing squares on screen. I already did that in [PONG](https://luxedo.github.io/pong-almost-from-scratch/) and also a vector font in [spacewar](https://luxedo.github.io/spacewar-almost-from-scratch/). Instead I've found a copy of a font for the [VT320](https://en.wikipedia.org/wiki/VT320) terminal in google fonts.
 
 ![VT320](report-assets/DEC-VT320-0a.jpg "VT320")
 
