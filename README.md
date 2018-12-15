@@ -29,10 +29,10 @@ Well, since I already made a reproduction of the game PONG, I'll be using it as 
 ## 01:25 - Create drawing/writting functions
 I'm not really in the mood of remakinkg the old terminal fonts by hands drawing squares on screen. I already did that in [PONG](https://luxedo.github.io/pong-almost-from-scratch/) and also a vector font in [spacewar](https://luxedo.github.io/spacewar-almost-from-scratch/). Instead I've found a copy of a font for the [VT320](https://en.wikipedia.org/wiki/VT320) terminal in google fonts.
 
-![VT320](report-assets/DEC-VT320-0a.jpg "VT320")
+![VT320](https://raw.githubusercontent.com/luxedo/hamurabi-almost-from-scratch/master/report-assets/DEC-VT320-0a.jpg "VT320")
 
 The text drawing function gets a text as input and prints it on screen. If the text is larger than `61` characters, the functions splits it into more lines. So far, the game looks like this:
-![hello world](report-assets/hello-world.png "hello world")
+![hello world](https://raw.githubusercontent.com/luxedo/hamurabi-almost-from-scratch/master/report-assets/hello-world.png "hello world")
 
 ## 08:00 - All the rest
 Since there was not much action in this game, I've spent this time
@@ -46,7 +46,7 @@ I think that the most interesting part was to do some archaeology and read the o
 I also read an [assignment](https://www.cis.upenn.edu/~matuszek/cit591-2010/Assignments/06-hammurabi.html) for the CIT 591 class of the [University of Pensylvania](http://www.upenn.edu/). It was some useful info too.
 
 The game ended up like this:
-![final](report-assets/final.jpg "final")
+![final](https://raw.githubusercontent.com/luxedo/hamurabi-almost-from-scratch/master/report-assets/final.jpg "final")
 
 As far as I tested there were no bugs, but only throwing it into the wild we'll find tem. So I'll be patching once if there's enough feedback.
 
